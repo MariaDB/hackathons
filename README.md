@@ -22,8 +22,8 @@ tables, or both. 36 teams submitted a project. The winners were:
 2. **Language Mirror**, by Bob the Builders ([code](https://github.com/silvekoski/languagemirror))
 3. **Ghosts of Wikipedia**, by Chrysalis ([code](https://github.com/salomeshioshvili/ghosts_of_wikipedia))
 
-- **All submissions:** [junction-2026/submissions.csv](junction-2026/submissions.csv), with links to code, public
-  videos and demos, and how each project uses MariaDB.
+- **All submissions:** [junction-2026](junction-2026/), with links to code and public videos, and a CSV of how each
+  project uses MariaDB.
 - **Starting points:** [mariadb-wikipedia-datasets](https://github.com/MariaDB/mariadb-wikipedia-datasets),
   [mariadb-vector-wikipedia-rag](https://github.com/MariaDB/mariadb-vector-wikipedia-rag) and
   [mariadb-system-versioning-wikipedia](https://github.com/MariaDB/mariadb-system-versioning-wikipedia).

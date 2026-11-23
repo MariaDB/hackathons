@@ -1,17 +1,8 @@
 # Junction 2026: MariaDB's Wikipedia challenge
 
-[submissions.csv](submissions.csv) has one row per submission to the MariaDB Foundation's challenge at Junction 2026
-(Espoo, 13–15 November 2026). See the [main README](../README.md#junction-2026) for the challenge and the winners.
-
-The data comes from the Junction platform and from reading each team's repository on 16 November 2026. Two
-repositories were not public. Some columns are our own judgement, not facts read from the code: Wikipedia angle,
-primary user, delivery form, how Vector and SVT are combined, and MariaDB findings and friction.
-
-## All 36 submissions
-
-The same list, with a short comment on each, is at the end of the [blog post](https://mariadb.org/junction-2026/).
-
-### The winners
+At [Junction 2026](https://2026.hackjunction.com/) in Espoo, Finland, on 13–15 November 2026, the MariaDB Foundation
+hosted **MariaDB's Wikipedia challenge**: build the tools Wikipedia is missing, using MariaDB Vector, system-versioned
+tables, or both. 36 teams submitted a project. The winners were:
 
 1. [Janus](https://github.com/ayaanjamil/janus), by Saunan Pojat: A browser extension that marks where Wikipedia's
    language editions disagree, right in the article, and ranks the articles that most need attention.
@@ -19,6 +10,10 @@ The same list, with a short comment on each, is at the end of the [blog post](ht
    edition tells the same story, and how that has changed over the years, with vector search on system-versioned tables.
 3. [Ghosts of Wikipedia](https://github.com/salomeshioshvili/ghosts_of_wikipedia), by Chrysalis: Brings deleted
    sentences back to life, searchable by meaning and traceable through time.
+
+## The other 33 submissions
+
+The same list, with a short comment on each, is at the end of the [blog post](https://mariadb.org/junction-2026/).
 
 ### Where the language editions disagree
 
@@ -92,7 +87,13 @@ The same list, with a short comment on each, is at the end of the [blog post](ht
 - [WikiSnitch](https://github.com/DevBytAmir/WikiSnitch), by Brainflow: Tells you whether a Wikipedia sentence has stood
   for ten years or was rewritten last week. ([video](https://youtu.be/PX3RAW2VvDY))
 
-## Columns
+## submissions.csv
+
+[submissions.csv](submissions.csv) has one row per submission. The data comes from the Junction platform and from
+reading each team's repository on 16 November 2026. Two repositories were not public. Some columns are our own judgement, not facts read from the code: Wikipedia angle,
+primary user, delivery form, how Vector and SVT are combined, and MariaDB findings and friction.
+
+### Columns
 
 | Column | What |
 |---|---|
