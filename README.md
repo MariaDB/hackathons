@@ -27,4 +27,4 @@ tables, or both. 36 teams submitted a project. The winners were:
 - **Starting points:** [mariadb-wikipedia-datasets](https://github.com/MariaDB/mariadb-wikipedia-datasets),
   [mariadb-vector-wikipedia-rag](https://github.com/MariaDB/mariadb-vector-wikipedia-rag) and
   [mariadb-system-versioning-wikipedia](https://github.com/MariaDB/mariadb-system-versioning-wikipedia).
-- **Blogs:** links will be added here.
+- **Blog:** [MariaDB's Junction 2026 challenge in numbers](https://mariadb.org/junction-2026/)
